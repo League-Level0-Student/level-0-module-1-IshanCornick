@@ -5,8 +5,13 @@ public class Song {
 		String word1 = "badger";
 		String word2 = "mushroom";
 		String word3 = "a snake";
-		System.out.println()
-	
+		for (int i = 0; i <6; i++) {
+			System.out.print(word1+ ", " + word1 + " ");
+		}
 	}
+
+
 }
+
+
 
